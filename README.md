@@ -1,34 +1,54 @@
+Hi there, I'm Rany Hanna 👋
 
-# **Hi there, I'm Rany Hanna 👋**
+I'm a passionate software engineer with a knack for building end-to-end solutions that make a difference. With a focus on scalability, reliability, and user experience, I bring a creative yet analytical approach to every project.
 
-**I'm a software engineer passionate about building full projects from scratch, creating scalable solutions, and improving user experience. I have a background in AI Engineering and Cognitive Neuroscience, and I love working with Python, JavaScript, and cloud technologies.**
+🚀 What I Do
 
-- **💻 Currently working on: a social media platform for movie lovers.**
-- **🤖 Exploring: AI, data visualization, and creative industry projects.**
-- **🌍 Global Studies: Completed in Egypt, Taiwan, India, South Korea, USA, Argentina, UK; Upcoming in Germany.**
-- **🌐 Visit my [personal website](https://my-portfolio-self-nine-90.vercel.app/) for more about my projects and blog posts.**
+I'm currently working on building a social media platform for movie lovers—creating a space where fans, creatives, and industry professionals connect.
 
-## **📌 Pinned Projects**
+My experience spans full-stack development, cloud technologies, AI engineering, and cognitive neuroscience. I enjoy solving challenging problems, particularly those that involve making technology accessible to everyone.
 
-**Check out some of my top projects:**
+I love coding and currently work as a Teaching Assistant for Software Engineering at Minerva University. I have also worked as a Machine Learning Teaching Assistant and have collaborated with startups in the US, Canada, India, Argentina, and San Francisco.
 
-- [**Food Saving Application**](https://github.com/username/food-saving-app) - A Flutter app with Firebase backend for discounted food purchases, implementing seller/buyer functionalities and facilitating over 5,000 transactions monthly.
-- [**Guidely SMMA**](https://github.com/username/guidely-smma) - A project management app built with Flask, SQLAlchemy, and Jinja2, featuring role-based access and Kanban boards for enhanced client handling.
-- [**Work-Study Platform**](https://github.com/username/work-study-platform) - Developed a job-boarding system using React, Node.js, and PostgreSQL, now adopted by the University.
+💡 What Drives Me
 
-## **🚀 Technologies & Skills**
+I thrive on building full projects from scratch—whether it's architecting backend systems, designing engaging UIs, or connecting different pieces of a tech stack.
 
-- **Languages: Python, JavaScript, SQL, Dart**
-- **Frameworks: React, Flask, MERN**
-- **Tools: Docker, Git, AWS, Firebase, Figma**
-- **Interests: Full-stack development, cloud computing, automation, AI**
+I'm all about bridging the gap between technical innovation and meaningful user experiences, ensuring that technology truly serves people.
 
-## **📈 GitHub Stats**
+🌍 Global Experience
 
-**![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)**
+I've completed my studies across different countries including Egypt, Taiwan, India, South Korea, USA, Argentina, and the UK, and will soon continue in Germany. My international background has shaped my understanding of diverse user needs and taught me to work collaboratively with people from all over the world.
 
-## **🤝 Let's Connect**
+🛠️ Technical Skills
 
-- [**LinkedIn**](https://www.linkedin.com/in/rany-hanna-895319169/)
-- [**Twitter**](https://twitter.com/yourhandle)
-- [**Personal Website**](https://my-portfolio-self-nine-90.vercel.app/)
+Languages: Python, JavaScript, SQL, Dart, HTML , CSS
+
+Frameworks: React, Flask, MERN , NodeJs, 
+
+Tools: Docker, Git, AWS, Firebase, Figma
+
+Special Interests: Full-stack development, cloud computing, automation, and AI engineering
+
+📌 Pinned Projects
+
+Check out some of my top projects:
+
+Food Saving Application - A Flutter app with Firebase backend that facilitates discounted food purchases, implementing seller/buyer functionalities and facilitating over 5,000 transactions monthly.
+
+Guidely SMMA - A project management app built with Flask, SQLAlchemy, and Jinja2, featuring role-based access and Kanban boards for enhanced client handling in social media marketing.
+
+Work-Study Platform - Developed a job-boarding system using React, Node.js, and PostgreSQL, now adopted by a university.
+
+📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rany29-coder&show_icons=true&theme=radical)
+
+
+
+🤝 Connect with Me
+
+LinkedIn: linkedin.com/in/rany-hanna-895319169/
+
+Personal Website: my-portfolio-self-nine-90.vercel.app
+
+Feel free to reach out if you’d like to collaborate, discuss tech, or just say hi! I’m always open to exploring exciting opportunities and new ideas.
