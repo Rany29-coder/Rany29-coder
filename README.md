@@ -34,9 +34,6 @@ I've completed my studies across different countries including **Egypt, Taiwan, 
 
 - **[Work-Study Platform](https://github.com/Rany29-coder/WorkStudy)** - Developed a **job-boarding system** using React, Node.js, and PostgreSQL, now adopted by a university.
 
-📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rany29-coder\&show_icons=true\&theme=radical)
 
 🤝 **Connect with Me**
 
